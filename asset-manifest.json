@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e5ccc4a.chunk.css",
-    "main.js": "/static/js/main.422d05b8.chunk.js",
-    "main.js.map": "/static/js/main.422d05b8.chunk.js.map",
+    "main.css": "/static/css/main.5447bc55.chunk.css",
+    "main.js": "/static/js/main.02859e11.chunk.js",
+    "main.js.map": "/static/js/main.02859e11.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e9c4a734.js",
     "runtime-main.js.map": "/static/js/runtime-main.e9c4a734.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.64761a94.chunk.js": "/static/js/2.64761a94.chunk.js",
-    "static/js/2.64761a94.chunk.js.map": "/static/js/2.64761a94.chunk.js.map",
-    "pen_paper.jpg": "/d7a6877de9b82b716c9a3b0b6366ea20-1920.jpg",
-    "ThanksPage2.png": "/3efda819696dc815ba446b4b86bfda92-768.png",
+    "static/js/2.da96c241.chunk.js": "/static/js/2.da96c241.chunk.js",
+    "static/js/2.da96c241.chunk.js.map": "/static/js/2.da96c241.chunk.js.map",
+    "pen_paper.jpg": "/d061aa6ac4827fe828fb1109221da727-576.jpg",
+    "ThanksPage2.png": "/885dbafede752d53e50d05ddc1f0d483-576.png",
     "ThanksPage1.png": "/774d3c0dc22fd7030abb350c07c04cf0-768.png",
     "Header.css": "/7808e64849cd22db08ede8e45d99be10-247.png",
-    "ChatBot.png": "/d7671e1949e07c4f6fcba08db008789b-821.png",
+    "ChatBot.png": "/fc913a810407cc3296a5519e361721ed-576.png",
     "index.html": "/index.html",
-    "precache-manifest.154b0220e3d5a680fb7ee080ddbabef2.js": "/precache-manifest.154b0220e3d5a680fb7ee080ddbabef2.js",
+    "precache-manifest.8dea1ea35e5ac40b71b49c0f1cf7caf1.js": "/precache-manifest.8dea1ea35e5ac40b71b49c0f1cf7caf1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5e5ccc4a.chunk.css.map": "/static/css/main.5e5ccc4a.chunk.css.map",
-    "static/js/2.64761a94.chunk.js.LICENSE.txt": "/static/js/2.64761a94.chunk.js.LICENSE.txt",
+    "static/css/main.5447bc55.chunk.css.map": "/static/css/main.5447bc55.chunk.css.map",
+    "static/js/2.da96c241.chunk.js.LICENSE.txt": "/static/js/2.da96c241.chunk.js.LICENSE.txt",
     "static/media/ChatBot.png": "/static/media/ChatBot.a5507f5b.png",
     "static/media/ThanksPage1.png": "/static/media/ThanksPage1.afb0dc9f.png",
     "static/media/ThanksPage2.png": "/static/media/ThanksPage2.f3e63919.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.e9c4a734.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.64761a94.chunk.js",
-    "static/css/main.5e5ccc4a.chunk.css",
-    "static/js/main.422d05b8.chunk.js"
+    "static/js/2.da96c241.chunk.js",
+    "static/css/main.5447bc55.chunk.css",
+    "static/js/main.02859e11.chunk.js"
   ]
 }

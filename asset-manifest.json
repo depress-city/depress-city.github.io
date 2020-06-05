@@ -1,35 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.5447bc55.chunk.css",
-    "main.js": "/static/js/main.f01e9cbe.chunk.js",
-    "main.js.map": "/static/js/main.f01e9cbe.chunk.js.map",
+    "main.css": "/static/css/main.555eaf9e.chunk.css",
+    "main.js": "/static/js/main.a5e0a8f0.chunk.js",
+    "main.js.map": "/static/js/main.a5e0a8f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e9c4a734.js",
     "runtime-main.js.map": "/static/js/runtime-main.e9c4a734.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.da96c241.chunk.js": "/static/js/2.da96c241.chunk.js",
-    "static/js/2.da96c241.chunk.js.map": "/static/js/2.da96c241.chunk.js.map",
+    "static/css/2.a823ed68.chunk.css": "/static/css/2.a823ed68.chunk.css",
+    "static/js/2.9b7777a6.chunk.js": "/static/js/2.9b7777a6.chunk.js",
+    "static/js/2.9b7777a6.chunk.js.map": "/static/js/2.9b7777a6.chunk.js.map",
     "pen_paper.jpg": "/d061aa6ac4827fe828fb1109221da727-576.jpg",
     "ThanksPage2.png": "/885dbafede752d53e50d05ddc1f0d483-576.png",
     "ThanksPage1.png": "/774d3c0dc22fd7030abb350c07c04cf0-768.png",
     "Header.css": "/7808e64849cd22db08ede8e45d99be10-247.png",
     "ChatBot.png": "/fc913a810407cc3296a5519e361721ed-576.png",
     "index.html": "/index.html",
-    "precache-manifest.136c9fca5d073134ef8fc18a3e564b8a.js": "/precache-manifest.136c9fca5d073134ef8fc18a3e564b8a.js",
+    "precache-manifest.e3917c1be457620b94927bd0db4f43d4.js": "/precache-manifest.e3917c1be457620b94927bd0db4f43d4.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5447bc55.chunk.css.map": "/static/css/main.5447bc55.chunk.css.map",
-    "static/js/2.da96c241.chunk.js.LICENSE.txt": "/static/js/2.da96c241.chunk.js.LICENSE.txt",
+    "static/css/2.a823ed68.chunk.css.map": "/static/css/2.a823ed68.chunk.css.map",
+    "static/css/main.555eaf9e.chunk.css.map": "/static/css/main.555eaf9e.chunk.css.map",
+    "static/js/2.9b7777a6.chunk.js.LICENSE.txt": "/static/js/2.9b7777a6.chunk.js.LICENSE.txt",
     "static/media/ChatBot.png": "/static/media/ChatBot.a5507f5b.png",
     "static/media/ThanksPage1.png": "/static/media/ThanksPage1.afb0dc9f.png",
     "static/media/ThanksPage2.png": "/static/media/ThanksPage2.f3e63919.png",
     "static/media/pen_paper.jpg": "/static/media/pen_paper.169e5d1d.jpg",
-    "static/media/Header.css": "/static/media/profile.61468f04.png"
+    "static/media/Header.css": "/static/media/profile.61468f04.png",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e9c4a734.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.da96c241.chunk.js",
-    "static/css/main.5447bc55.chunk.css",
-    "static/js/main.f01e9cbe.chunk.js"
+    "static/css/2.a823ed68.chunk.css",
+    "static/js/2.9b7777a6.chunk.js",
+    "static/css/main.555eaf9e.chunk.css",
+    "static/js/main.a5e0a8f0.chunk.js"
   ]
 }

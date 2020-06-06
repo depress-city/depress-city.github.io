@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.351a46d6.chunk.css",
-    "main.js": "/static/js/main.f7eda33d.chunk.js",
-    "main.js.map": "/static/js/main.f7eda33d.chunk.js.map",
+    "main.js": "/static/js/main.d1bd93ea.chunk.js",
+    "main.js.map": "/static/js/main.d1bd93ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e9c4a734.js",
     "runtime-main.js.map": "/static/js/runtime-main.e9c4a734.js.map",
     "static/css/2.a823ed68.chunk.css": "/static/css/2.a823ed68.chunk.css",
@@ -14,7 +14,7 @@
     "profile_big.jpeg": "/d1edd7a5948b0e4b296ee835b9025213-1200.jpeg",
     "ChatBot.png": "/fc913a810407cc3296a5519e361721ed-576.png",
     "index.html": "/index.html",
-    "precache-manifest.7c2e44b5ffd5678e17073307804bdca4.js": "/precache-manifest.7c2e44b5ffd5678e17073307804bdca4.js",
+    "precache-manifest.5fbab81fcc058fed540b81598f12f792.js": "/precache-manifest.5fbab81fcc058fed540b81598f12f792.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a823ed68.chunk.css.map": "/static/css/2.a823ed68.chunk.css.map",
     "static/css/main.351a46d6.chunk.css.map": "/static/css/main.351a46d6.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.a823ed68.chunk.css",
     "static/js/2.f458f254.chunk.js",
     "static/css/main.351a46d6.chunk.css",
-    "static/js/main.f7eda33d.chunk.js"
+    "static/js/main.d1bd93ea.chunk.js"
   ]
 }

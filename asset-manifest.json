@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.c8c74306.chunk.css",
-    "main.js": "/static/js/main.429c1dae.chunk.js",
-    "main.js.map": "/static/js/main.429c1dae.chunk.js.map",
+    "main.js": "/static/js/main.68c0321c.chunk.js",
+    "main.js.map": "/static/js/main.68c0321c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e9c4a734.js",
     "runtime-main.js.map": "/static/js/runtime-main.e9c4a734.js.map",
     "static/css/2.a823ed68.chunk.css": "/static/css/2.a823ed68.chunk.css",
-    "static/js/2.bef5caa7.chunk.js": "/static/js/2.bef5caa7.chunk.js",
-    "static/js/2.bef5caa7.chunk.js.map": "/static/js/2.bef5caa7.chunk.js.map",
+    "static/js/2.17d87ed4.chunk.js": "/static/js/2.17d87ed4.chunk.js",
+    "static/js/2.17d87ed4.chunk.js.map": "/static/js/2.17d87ed4.chunk.js.map",
     "pen_paper.jpg": "/d061aa6ac4827fe828fb1109221da727-576.jpg",
     "ThanksPage2.png": "/885dbafede752d53e50d05ddc1f0d483-576.png",
     "ThanksPage1.png": "/774d3c0dc22fd7030abb350c07c04cf0-768.png",
     "profile_big.jpeg": "/d1edd7a5948b0e4b296ee835b9025213-1200.jpeg",
     "ChatBot.png": "/fc913a810407cc3296a5519e361721ed-576.png",
     "index.html": "/index.html",
-    "precache-manifest.85b273e40631409acfde1ebbb9d24391.js": "/precache-manifest.85b273e40631409acfde1ebbb9d24391.js",
+    "precache-manifest.514e1b094718ffa02aa45042a0e64823.js": "/precache-manifest.514e1b094718ffa02aa45042a0e64823.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a823ed68.chunk.css.map": "/static/css/2.a823ed68.chunk.css.map",
     "static/css/main.c8c74306.chunk.css.map": "/static/css/main.c8c74306.chunk.css.map",
-    "static/js/2.bef5caa7.chunk.js.LICENSE.txt": "/static/js/2.bef5caa7.chunk.js.LICENSE.txt",
+    "static/js/2.17d87ed4.chunk.js.LICENSE.txt": "/static/js/2.17d87ed4.chunk.js.LICENSE.txt",
     "static/media/ChatBot.png": "/static/media/ChatBot.a5507f5b.png",
     "static/media/ThanksPage1.png": "/static/media/ThanksPage1.afb0dc9f.png",
     "static/media/ThanksPage2.png": "/static/media/ThanksPage2.f3e63919.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.e9c4a734.js",
     "static/css/2.a823ed68.chunk.css",
-    "static/js/2.bef5caa7.chunk.js",
+    "static/js/2.17d87ed4.chunk.js",
     "static/css/main.c8c74306.chunk.css",
-    "static/js/main.429c1dae.chunk.js"
+    "static/js/main.68c0321c.chunk.js"
   ]
 }

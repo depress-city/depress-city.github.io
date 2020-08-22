@@ -1,36 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8c74306.chunk.css",
-    "main.js": "/static/js/main.2b3d62c8.chunk.js",
-    "main.js.map": "/static/js/main.2b3d62c8.chunk.js.map",
+    "main.css": "/static/css/main.a60f1159.chunk.css",
+    "main.js": "/static/js/main.30ce5b26.chunk.js",
+    "main.js.map": "/static/js/main.30ce5b26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bebc069d.js",
     "runtime-main.js.map": "/static/js/runtime-main.bebc069d.js.map",
     "static/css/2.4b12319a.chunk.css": "/static/css/2.4b12319a.chunk.css",
-    "static/js/2.9bc0ec6b.chunk.js": "/static/js/2.9bc0ec6b.chunk.js",
-    "static/js/2.9bc0ec6b.chunk.js.map": "/static/js/2.9bc0ec6b.chunk.js.map",
+    "static/js/2.eb236f9d.chunk.js": "/static/js/2.eb236f9d.chunk.js",
+    "static/js/2.eb236f9d.chunk.js.map": "/static/js/2.eb236f9d.chunk.js.map",
     "pen_paper.jpg": "/d061aa6ac4827fe828fb1109221da727-576.jpg",
     "ThanksPage2.png": "/885dbafede752d53e50d05ddc1f0d483-576.png",
     "ThanksPage1.png": "/774d3c0dc22fd7030abb350c07c04cf0-768.png",
     "profile_big.jpeg": "/d1edd7a5948b0e4b296ee835b9025213-1200.jpeg",
     "ChatBot.png": "/fc913a810407cc3296a5519e361721ed-576.png",
     "index.html": "/index.html",
-    "precache-manifest.353cd66cde2cb1104c55ad8301d86217.js": "/precache-manifest.353cd66cde2cb1104c55ad8301d86217.js",
+    "precache-manifest.21294d9f1e84c11570d3b9dea9d1b5ac.js": "/precache-manifest.21294d9f1e84c11570d3b9dea9d1b5ac.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4b12319a.chunk.css.map": "/static/css/2.4b12319a.chunk.css.map",
-    "static/css/main.c8c74306.chunk.css.map": "/static/css/main.c8c74306.chunk.css.map",
-    "static/js/2.9bc0ec6b.chunk.js.LICENSE.txt": "/static/js/2.9bc0ec6b.chunk.js.LICENSE.txt",
+    "static/css/main.a60f1159.chunk.css.map": "/static/css/main.a60f1159.chunk.css.map",
+    "static/js/2.eb236f9d.chunk.js.LICENSE.txt": "/static/js/2.eb236f9d.chunk.js.LICENSE.txt",
     "static/media/ChatBot.png": "/static/media/ChatBot.a5507f5b.png",
     "static/media/ThanksPage1.png": "/static/media/ThanksPage1.afb0dc9f.png",
     "static/media/ThanksPage2.png": "/static/media/ThanksPage2.f3e63919.png",
     "static/media/pen_paper.jpg": "/static/media/pen_paper.169e5d1d.jpg",
     "static/media/profile_big.jpeg": "/static/media/profile_big.fca7bfe1.jpeg",
-    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+    "static/media/Landing.css": "/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bebc069d.js",
     "static/css/2.4b12319a.chunk.css",
-    "static/js/2.9bc0ec6b.chunk.js",
-    "static/css/main.c8c74306.chunk.css",
-    "static/js/main.2b3d62c8.chunk.js"
+    "static/js/2.eb236f9d.chunk.js",
+    "static/css/main.a60f1159.chunk.css",
+    "static/js/main.30ce5b26.chunk.js"
   ]
 }
